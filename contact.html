@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Real Estate Builders Free Responsive Website Templates - A Design">
+<meta name="author" content="webThemez.com">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="百度地图,百度地图API，百度地图自定义工具，百度地图所见即所得工具" />
+    <meta name="description" content="百度地图API自定义地图，帮助用户在可视化操作下生成百度地图" />
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<title>联系我们|厦门大学智能数据分析与处理实验室</title>
+<link rel="favicon" href="assets/images/favicon.png">
+<!--link rel="stylesheet" media="screen" href="http://fonts.useso.com/css?family=Open+Sans:300,400,700"-->
+<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+<!-- Custom styles for our template -->
+<link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/news-style.css">
+<!--引用百度地图API-->
+<script src="http://api.map.baidu.com/api?v=1.4" type="text/javascript"></script>
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
+	<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+<style>
+	.panel-body {margin:0px 30%; text-align:center}
+</style>
+</head>
+
+<body>
+<!-- Fixed navbar -->
+<div class="navbar navbar-inverse">
+  <div class="container">
+    <div class="navbar-header"> 
+      <!-- Button for smallest screens -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+      <a class="navbar-brand" href="index.html"> <img src="assets/images/logo.png" alt="Techro HTML5 template"></a> 
+	</div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav pull-right mainNav">
+        <li ><a href="index.html">首页</a></li>
+        <li class="dropdown "> <a href="#" class="dropdown-toggle" data-toggle="dropdown">实验室概况 <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="introduction.html">实验室简介</a></li>
+            <li><a href="research-direction.html">研究方向</a></li>
+			<li class="active"><a href="contact.html">联系我们</a></li>
+          </ul>
+        </li>
+        <li class="dropdown "> <a href="#" class="dropdown-toggle" data-toggle="dropdown">师资队伍 <b class="caret"></b></a>
+		  <ul class="dropdown-menu">
+            <li><a href="team.html">学术团队</a></li>
+            <li><a href="teamindex/xhding.html">丁兴号</a></li>
+			<li><a href="teamindex/cbcai.html">蔡聪波</a></li>
+			<li><a href="teamindex/dlzengC.html">曾德炉</a></li>
+			<li><a href="teamindex/yhliao.html">廖英豪</a></li>
+			<li><a href="teamindex/yhuang.html">黄悦</a></li>			
+          </ul>
+		</li>
+      </ul>
+    </div>
+    <!--/.nav-collapse --> 
+  </div>
+</div>
+<!-- /.navbar -->
+
+<header id="head" class="secondary">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8">
+        <h1>联系我们</h1>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- container -->
+<div class="container">
+  <div class="row"> 
+    <!-- Article content -->
+    <div style="float:left; width:50%; margin-top:20px;">
+    <section class="col-sm-12 maincontent">
+      <h3><strong>地址</strong></h3>
+      <h4>中国福建省厦门市思明区厦门大学海韵园科研二号楼205/601/604</h4>
+      <h3><strong>联系电话</strong></h3>
+      <h4>丁兴号老师：18959286868</h4>
+      <h4>黄&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;悦老师：15959232083</h4>
+      <h3><strong>联系邮箱</strong></h3>
+      
+        <h4>丁兴号老师：dxh@xmu.edu.cn</h4>
+        <h4> 蔡聪波老师：cbcai@xmu.edu.cn</h4>
+       <h4>曾德炉老师：dltsang@xmu.edu.cn</h4>
+        <h4>廖英豪老师：ylliao@xmu.edu.cn</h4>
+        <h4> 黄&nbsp;&nbsp;&nbsp;悦老师：yhuang2010@xmu.edu.cn </h4>
+      </ul>
+    </section>
+    </div>
+    <div style="float:right; width:50%; margin-top:20px">
+   <div style="width:550px;height:450px;border:#ccc solid 1px;font-size:12px" id="map"></div>
+    </div>
+  </div>
+</div>
+<!-- /container -->
+
+<footer id="footer">
+  <div class="panel-body">
+	<p class="text-middle"> 厦门大学智能数据分析与处理实验室 </p>
+	<p class="text-middle"> 地址：中国福建省厦门市思明区厦门大学海韵园科研二号楼 205/601/604 </p>
+  </div>
+</footer>
+
+
+<!-- JavaScript libs are placed at the end of the document so the pages load faster --> 
+<script src="assets/js/jquery-min1.js"></script> 
+<script src="assets/js/bootstrap-min1.js"></script> 
+<script src="assets/js/custom.js"></script>
+</body>
+<script type="text/javascript">
+    //创建和初始化地图函数：
+    function initMap(){
+      createMap();//创建地图
+      setMapEvent();//设置地图事件
+      addMapControl();//向地图添加控件
+      addMapOverlay();//向地图添加覆盖物
+    }
+    function createMap(){ 
+      map = new BMap.Map("map"); 
+      map.centerAndZoom(new BMap.Point(118.12014,24.436687),18);
+    }
+    function setMapEvent(){
+      map.enableScrollWheelZoom();
+      map.enableKeyboard();
+      map.enableDragging();
+      map.enableDoubleClickZoom()
+    }
+    function addClickHandler(target,window){
+      target.addEventListener("click",function(){
+        target.openInfoWindow(window);
+      });
+    }
+    function addMapOverlay(){
+      var markers = [
+      ];
+      for(var index = 0; index < markers.length; index++ ){
+        var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
+        var marker = new BMap.Marker(point,{icon:new BMap.Icon("http://api.map.baidu.com/lbsapi/createmap/images/icon.png",new BMap.Size(20,25),{
+          imageOffset: new BMap.Size(markers[index].imageOffset.width,markers[index].imageOffset.height)
+        })});
+        var label = new BMap.Label(markers[index].title,{offset: new BMap.Size(25,5)});
+        var opts = {
+          width: 200,
+          title: markers[index].title,
+          enableMessage: false
+        };
+        var infoWindow = new BMap.InfoWindow(markers[index].content,opts);
+        marker.setLabel(label);
+        addClickHandler(marker,infoWindow);
+        map.addOverlay(marker);
+      };
+    }
+    //向地图添加控件
+    function addMapControl(){
+      var scaleControl = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+      scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
+      map.addControl(scaleControl);
+      var navControl = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+      map.addControl(navControl);
+      var overviewControl = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:true});
+      map.addControl(overviewControl);
+    }
+    var map;
+      initMap();
+  </script>
+</html>
