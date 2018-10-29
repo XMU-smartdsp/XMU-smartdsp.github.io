@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+<head lang="en">
+    <meta charset="UTF-8">
+    <link href="Retinex/contentstyle.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="Retinex/buttons.css" />
+    <link rel="shortcut icon" href="image/favicon.ico" type="image/vnd.microsoft.icon" />
+    <title> Vehicle logo recognition system based on convolutional networks with a pre-training strategy</title>
+    <style type="text/css">
+        body {
+            margin-left: 60px;
+            margin-top: 0px;
+            margin-right: 60px;
+            margin-bottom: 0px;
+
+        }
+       </style>
+	   <style>
+			a{text-decoration:none;} 
+		</style>
+			<script>  
+　　functionn MyAutoRun()//页面自动加载
+　　{  
+　　　window.location.reload();
+　　　  
+　　}  
+　　window.onload=MyAutoRun(); 
+</script>
+</head>
+
+
+<body>
+<p style="text-align: center;font-size: 30px;font-family: Times New Roman"><big><big><strong> Vehicle logo recognition system based on convolutional networks<br> with a pre-training strategy</strong></big></big></p><br/>
+
+
+<p style="font-family: Times New Roman;font-size: 20px;text-align: justify"><a style="font-size: 30px;color: blue;"><strong>Abstract</strong></a></br></br>Since the vehicle logo is the clearest indicator of the vehicle manufacturer, vehicle logo recognition (VLR) always plays a crucial role in intelligent transportation systems (ITS). VLR is always useful to provide car ownership statistics to governments and businesses. In addition, manufacturer recognition can assist in vehicle identification, e.g. vehicle license plates are often replaced in stolen cars. </p>
+<p style="font-family: Times New Roman;font-size: 20px;text-align: justify">The project proposed an efficient vehicle logo recognition by convolutional neural networks with PCA based pre-training strategy. The contributions of the proposed work can be summarized as:</br>
+    (1) a PCA based pre-training strategy has been suggested for the CNN logo recognition model to dramatically reduce the computational cost of training procedures, thus ensuring that the proposed models satisfy the requirement of logo recognition for efficient training procedures, since the training samples are updated frequently;</br>
+    (2) rather than hand crafted features, the proposed system automatically extracts features which are robust enough to provide a satisfactory classification accuracy with various outdoor imaging situations; <br>(3) a coarse segmentation approach is proposed based on a very simple assumption, so precise logo detection is no longer required.
+</p>
+<p class="committeeTitle"></p>
+<p style="font-family: Times New Roman;font-size: 20px;text-align: justify"><a style="font-size: 30px;color: blue;"><strong>Paper</strong></a><br><br>Related citation: Yue Huang, Ruiwen Wu, Ye Sun, Wei Wang, Xinghao Ding, Vehicle logo recognition system based on convolutional networks with a pre-training strategy,accepted by IEEE Trans. Intelligent Transportation Systems.[<a href="VehicleLogo\Vehicle Logo Recognition System Based on Convolutional Neural Networks with pretraining strategy_proof.pdf" >pdf</a>]</p>
+<p style="font-family: Times New Roman;font-size: 20px;text-align: justify"><a style="font-size: 25px;color: blue;"><strong>Supplemental issues</strong></a><br><br><a style="color: blue"><strong>Part I</strong></a> <br><br>
+    As for the robustness against combined distortions, another experiment is proposed as follows as a simulation of some extreme cases. A set of image samples (2,000) are generated with all the tested combined distortions (combinations of various noises, illuminations and rotations), and two subsets (subset F and G) can be generated with size of 1,000 and 1,000. This aims to make sure that the training samples and testing samples are not overlap. Two classification steps are proposed in the validation. In the Step 1, training samples are the same as in the experiments section, and subset F is employed as testing samples in the recognition. And then in Step 2, the testing samples are included into the training samples with correct labels by replacing 1,000 random selected samples, thus generating the training data in next step. Subset G is applied as testing data in the second step. All the testing data in two steps are combined distorted images. Details of each step and classification accuracy are recorded as follows. It can be observed that the accuracy decrease to 88.2% when there is no combined distorted images in the training data; however, it increases to 99.2% with online updated training data.
+</p>
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="middle">
+<table frame="box" border="1px" cellspacing="0px" style="border-collapse:collapse" bordercolor="#000000">
+    <caption style="font-size: 20px;font-family: Times New Roman">Table VII  Experiments detail and accuracy summarization in robustness validation with combined distorted data (extreme case)</caption>
+    <tr>
+        <th style="border-bottom-style: hidden"></th>
+        <th colspan="2">Training data</th>
+        <th colspan="2">Testing data</th>
+        <th rowspan="2" width="100">Accuracy</th>
+    </tr>
+    <tr style="font-family: Times New Roman">
+        <td ></td>
+        <td style="text-align: center">Combined distorted</td>
+        <td style="text-align: center">Non-combined distorted</td>
+        <td style="text-align: center">Combined distorted</td>
+        <td style="text-align: center">Non-combined distorted</td>
+
+    </tr>
+    <tr style="font-family: Times New Roman">
+        <td>Step 1</td>
+        <td style="text-align: center">0</td>
+        <td style="text-align: center">10,000</td>
+        <td style="text-align: center">1000</td>
+        <td style="text-align: center">0</td>
+        <td style="text-align: center">88.2%</td>
+
+    </tr>
+    <tr style="font-family: Times New Roman">
+        <td style="text-align: center">Step 2</td>
+        <td style="text-align: center">1,000</td>
+        <td style="text-align: center">9,000</td>
+        <td style="text-align: center">1000</td>
+        <td style="text-align: center">0</td>
+        <td style="text-align: center">99.2%</td>
+    </tr>
+</table>
+</td></tr></table>
+<br>
+<p style="font-family: Times New Roman;font-size: 20px;text-align: justify"><a style="color: blue"><strong>Part Ⅱ</strong></a><br><br>For further analysis of computational cost comparisons (Table IV in the paper), a table containing the detail information in each layer, e.g. feature maps number, kernel size and feature size in each layer for computational costs analysis are summarized in Table IVC as follows and in the project page as well. 'first layer' and 'second layer' in the table denote 'C1', 'S2' and 'C3', 'S4' in Fig.4 respectively. It can be observed that the feature size after fully connection layer in pre-training CNN is much larger than that of CNN (432 v.s 20736), and this is mainly caused by the different kernel sizes in the 'second layer'.</p>
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="middle">
+<table frame="box" border="1px" cellspacing="0px" style="border-collapse:collapse" bordercolor="#000000">
+    <caption style="font-size: 20px;font-family: Times New Roman">Table IV Detail information in each layer for computational cost analysis</caption>
+    <p style="text-align: justify;font-family: Times New Roman;font-size: 20px">Due to the limit space, we only provide the above descriptions in the revised text. A table containing the detail information in each layer, e.g. feature maps number, kernel size and feature size in each layer for computational costs analysis are summarized in Table IVC as follows and in the project page as well. 'first layer' and 'second layer' in the table denote 'C1', 'S2' and 'C3', 'S4' in Fig.4 respectively. It can be observed that the feature size after fully connection layer in pre-training CNN is much larger than that of CNN (432 v.s 20736), and this is mainly caused by the different kernel sizes in the 'second layer'. </p>
+    <tr >
+        <th style="border-bottom-style: hidden"></th>
+        <th colspan="3">First layer(C1 + S2)</th>
+        <th colspan="3">Second layer(C3 + S4)</th>
+        <th>Fully connection</th>
+    </tr>
+    <tr style="font-family: Times New Roman">
+        <td></td>
+        <td style="text-align: center" width="100">Kernel size</td>
+        <td style="text-align: center" width="100">Feature maps No.</td>
+        <td style="text-align: center" width="100">Output size</td>
+        <td style="text-align: center" width="100">Kernel size</td>
+        <td style="text-align: center" width="100">Feature maps No.</td>
+        <td style="text-align: center" width="100">Output size</td>
+        <td style="text-align: center" width="100">Output size</td>
+    </tr>
+    <tr style="font-family: Times New Roman">
+        <td style="text-align: center">CNN</td>
+        <td style="text-align: center">7×7</td>
+        <td style="text-align: center">6</td>
+        <td style="text-align: center">32×32×6</td>
+        <td style="text-align: center">21×21</td>
+        <td style="text-align: center">72</td>
+        <td style="text-align: center">6×6×72</td>
+        <td style="text-align: center">2592×1</td>
+
+    </tr>
+    <tr style="font-family: Times New Roman">
+        <td style="text-align: center">Pre-training</td>
+        <td style="text-align: center">7×7</td>
+        <td style="text-align: center">8</td>
+        <td style="text-align: center">35×35×8</td>
+        <td style="text-align: center">7×7</td>
+        <td style="text-align: center">64</td>
+        <td style="text-align: center">18×18×64</td>
+        <td style="text-align: center">20736×1</td>
+    </tr>
+</table>
+</td></tr></table>
+<p class="committeeTitle"></p>
+
+<p style="font-family: Times New Roman;font-size: 20px"><a style="font-size: 30px;color: blue;"><strong>Data</strong></a></p>
+<div style="position: relative" >
+    <table>
+        <td><img style="margin-left:100px;display:block;height: 400px;width: 400px" src="VehicleLogo/training%20images.png"></td>
+        <td><img style="margin-left:350px;display:block;height: 200px;width: 200px" src="VehicleLogo/testing%20image.jpg" ></td>
+    </table>
+
+
+    <div style="position: absolute;z-index: 2;left: 180px;top: 410px;font-size: 20px;font-family: Times New Roman ">Training data<a href="VehicleLogo/TrainingData.zip">(download)</a> </div>
+    <div style="position: absolute;z-index: 2;left: 860px;top: 410px;font-size: 20px;font-family: Times New Roman ">Testing data<a href="VehicleLogo/TestingData.zip">(download)</a> </div>
+
+</div>
+
+
+<br>
+
+<p class="committeeTitle"></p>
+
+
+
+<p style="font-family: Times New Roman;font-size: 20px"><a style="font-size: 30px;color: blue;"><strong>Source codes</strong></a></p>
+<p style="font-family: Times New Roman;font-size: 20px;text-align: justify">Codes Link: <a href="VehicleLogo/PCANet_demo_For_PCA_CarSymbol.zip">Codes.rar</a> </p>
+
+
+
+
+
+</br>
+</br></br></br></br></br></br>
+</body>
+</html>
