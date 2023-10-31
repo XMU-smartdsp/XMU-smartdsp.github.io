@@ -17,7 +17,7 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "XMU-smartdsp/XMU-smartdsp.github.io",
+  repo: "XMU-smartdsp/XMU-smartdsp.github.io/tree/v2",
 
   docsDir: "src",
 
