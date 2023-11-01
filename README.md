@@ -23,7 +23,8 @@ pnpm install
 
 ## Attenetion
 
-- Even Although there are some image files that have an uppercase suffix (e.g., .JPG), you need to use lowercase (e.g., .jpg) in your markdown file.
+- While there are some image file's that are uppercase (e.g. IMG_8752.JPG), you need to use lowercase in your markdown file (e.g. img_8752.jpg).
+
 - You can get some help about the website config from [here](https://theme-hope.vuejs.press/zh/config/intro.html)
 
 ---
