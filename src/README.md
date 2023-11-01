@@ -109,5 +109,3 @@ footer: 地址：中国福建省厦门市翔安区厦门大学翔安校区西部
   **Xueyang Fu**, Yinghao Liao, Delu Zeng, Yue Huang, Xiao-Ping Zhang, Xinghao Ding
 
   IEEE Transactions on Image Processing (TIP) [[PDF\]](https://xueyangfu.github.io/paper/2015/TIP/TIP2015.pdf) [[Matlab Code\]](https://xueyangfu.github.io/paper/2015/TIP/Matlab_code.zip)
-
-hello world
