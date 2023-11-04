@@ -16,7 +16,7 @@ projects:
 footer: 地址：中国福建省厦门市翔安区厦门大学翔安校区西部片区6号楼211/201
 ---
 
-## 实验室成果
+<p style="text-align: center;"> <br><h2>实验室成果</h2></p>
 
 - [Noise2Blur: Online Noise Extraction and Denoising](/news/news20191204.html)
 
