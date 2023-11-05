@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,g as c,a}from"./app-2594705f.js";const r={},n=a("iframe",{src:"/2020zhaoshengxuanchuan.pdf",width:"100%",height:"600px"},null,-1);function s(m,_){return o(),t("div",null,[c(" more "),n])}const h=e(r,[["render",s],["__file","welcome.html.vue"]]);export{h as default};
