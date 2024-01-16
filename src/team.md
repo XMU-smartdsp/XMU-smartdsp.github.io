@@ -445,13 +445,13 @@ export default {
                     },
                     {
                         "name": "刘胤昊",
-                        "avatar": "姑苏檐下雨_刘胤昊_23硕.jpg",
+                        "avatar": "刘胤昊_23硕.jpg",
                         "title": "",
                         "link": ""
                     },
                     {
                         "name": "陈轶鑫",
-                        "avatar": "玄愔_陈轶鑫_23硕.jpg",
+                        "avatar": "玄愔_陈轶鑫_23硕.png",
                         "title": "",
                         "link": ""
                     },
