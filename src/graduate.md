@@ -600,6 +600,104 @@ export default {
             link: "",
           },
         ],
+        2023: [
+          {
+              name: "蔡森林",
+              avatar: "caisenlin.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "柴舒",
+              avatar: "chaishu.jpg",
+              title: "",
+              link: ""
+          },
+          {
+              name: "陈睿哲",
+              avatar: "chenruizhe.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "丁之元",
+              avatar: "dingzhiyuan.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "何楚楚",
+              avatar: "hechuchu.jpg",
+              title: "",
+              link: ""
+          },
+          {
+              name: "黄乐兴",
+              avatar: "huanglexing.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "李炯承",
+              avatar: "lijiongcheng.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "梁浩",
+              avatar: "lianghao.jpg",
+              title: "",
+              link: ""
+          },
+          {
+              name: "林晓鹏",
+              avatar: "linxiaopeng.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "饶智杰",
+              avatar: "raozhijie.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "王天浚",
+              avatar: "dabai.jpg",
+              title: "",
+              link: ""
+          },
+          {
+              name: "王蔚瑜",
+              avatar: "wangweiyu.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "余少聪",
+              avatar: "yushaocong.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "张弛",
+              avatar: "zhangchi.png",
+              title: "",
+              link: ""
+          },
+          {
+              name: "周观星",
+              avatar: "zhouguanxing.jpg",
+              title: "",
+              link: "",
+          },
+          {
+              name: "庄易鸿",
+              avatar: "zhuangyihong.jpg",
+              title: "",
+              link: "",
+          },
+      ],
       },
     };
   },
