@@ -383,7 +383,7 @@ export default {
                     },
                     {
                         name: "吴庆垚",
-                        avatar: "吴庆垚.jpg",
+                        avatar: "吴庆垚_new.jpg",
                         title: "",
                         link: ""
                     },
