@@ -186,7 +186,7 @@ export default {
                 },
                 {
                     name: "王莹莹",
-                    avatar: "wangyingying.jpg",
+                    avatar: "wangyingying_new.jpg",
                     title: "",
                     link: "#",
                 },],
