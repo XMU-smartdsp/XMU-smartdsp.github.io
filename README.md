@@ -28,7 +28,7 @@ and build it with
 ```sh
 npm run docs:build
 ```
-## Attenetion
+## Attention
 
 - Although there are some image files that have an uppercase suffix (e.g. IMG_8752.JPG), you need to change them to **lowercase** (e.g. IMG_8752.jpg) and reference them correctly in markdown. Please make sure that the images with the **correct filenames have been updated in GitHub**, otherwise the build may **fail** in GitHub.
 

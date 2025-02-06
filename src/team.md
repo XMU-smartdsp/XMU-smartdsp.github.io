@@ -213,107 +213,22 @@ export default {
                     avatar: "郭奕松_郭奕松-23博.jpg",
                     title: "",
                     link: "#",
-                },]
+                },],
+                2024: [{
+                    name: "郭慧敏",
+                    avatar: "郭慧敏.jpg",
+                    title: "",
+                    link: "#"
+                },
+                {
+                    name: "袁与炫",
+                    avatar: "袁与炫.jpg",
+                    title: "",
+                    link: "#",
+                },
+                ]
             },
             masters: {
-                2021: [
-                    {
-                        name: "褚学业",
-                        avatar: "chuxueye.jpg",
-                        title: "",
-                        link: ""
-                    },
-                    {
-                        name: "丁海舟",
-                        avatar: "dinghaizhou.jpg",
-                        title: "",
-                        link: "",
-                    },
-                    {
-                        name: "胡郁明",
-                        avatar: "huyuming.jpg",
-                        title: "",
-                        link: ""
-                    },
-                    {
-                        name: "赖灿兴",
-                        avatar: "laicanxing.jpg",
-                        title: "",
-                        link: "",
-                    },
-                    {
-                        name: "林初阳",
-                        avatar: "linchuyang.jpg",
-                        title: "",
-                        link: "",
-                    },
-                    {
-                        name: "刘奕阳",
-                        avatar: "liuyiyang.jpg",
-                        title: "",
-                        link: "",
-                    },
-                    {
-                        name: "吕正芃",
-                        avatar: "dabai.jpg",
-                        title: "",
-                        link: ""
-                    },
-                    {
-                        name: "毛怡瑾",
-                        avatar: "maoyijin.jpg",
-                        title: "",
-                        link: ""
-                    },
-                    {
-                        name: "魏海艳",
-                        avatar: "weihaiyan.jpg",
-                        title: "",
-                        link: "",
-                    },
-                    {
-                        name: "徐迎",
-                        avatar: "xuying.jpg",
-                        title: "",
-                        link: ""
-                    },
-                    {
-                        name: "杨刚",
-                        avatar: "yanggang.jpg",
-                        title: "",
-                        link: ""
-                    },
-                    {
-                        name: "张勇华",
-                        avatar: "zhangyonghua.jpg",
-                        title: "",
-                        link: "",
-                    },
-                    {
-                        name: "郑国庆",
-                        avatar: "zhengguoqing.jpg",
-                        title: "",
-                        link: "",
-                    },
-                    {
-                        name: "钟杰",
-                        avatar: "zhongjie.jpg",
-                        title: "",
-                        link: ""
-                    },
-                    {
-                        name: "钟亦劲",
-                        avatar: "zhongyijin.jpg",
-                        title: "",
-                        link: "",
-                    },
-                    {
-                        name: "周文波",
-                        avatar: "zhouwenbo.jpg",
-                        title: "",
-                        link: "",
-                    },
-                ],
                 2022: [
                     {
                         name: "陈晓璐",
@@ -329,7 +244,7 @@ export default {
                     },
                     {
                         name: "邓成浩",
-                        avatar: "邓成浩.jpg",
+                        avatar: "邓成浩_22硕_2025-01-14 16.36.51_逍小自在.jpg",
                         title: "",
                         link: ""
                     },
@@ -399,12 +314,12 @@ export default {
                         title: "",
                         link: ""
                     },
-                    {
-                        name: "袁与炫",
-                        avatar: "袁与炫.jpg",
-                        title: "",
-                        link: ""
-                    },
+                    // {
+                    //     name: "袁与炫",
+                    //     avatar: "袁与炫.jpg",
+                    //     title: "",
+                    //     link: ""
+                    // },
                     {
                         name: "章弘阳",
                         avatar: "章弘阳.jpg",
@@ -557,6 +472,122 @@ export default {
                         "title": "",
                         "link": ""
                     }
+                ],
+                2024: [
+                    {
+                        "name": "郑捷炜",
+                        "avatar": "郑捷炜_24硕_2025-01-20 22.19.50_monom.jpeg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "张欣",
+                        "avatar": "张欣_24硕_2025-01-20 10.01.51_小白星.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "张宝强",
+                        "avatar": "张宝强_24硕_2025-01-13 13.54.57_bq💊.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "谢佳欣",
+                        "avatar": "谢佳欣简历_2025-01-13 15.46.33_💫.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "吴君杰",
+                        "avatar": "吴君杰_24硕_2025-01-20 15.03.09_0.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "刘俊峰",
+                        "avatar": "刘俊峰_24硕_2025-01-20 19.47.11_巧克力.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "林坤杰",
+                        "avatar": "林坤杰.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "陈博晟",
+                        "avatar": "陈博晟_24硕_2025-01-13 14.55.50_cbs.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "段雨发",
+                        "avatar": "段雨发_24硕_2025-01-13 16.43.32_乖乖.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "蔡哲源",
+                        "avatar": "蔡哲源_24硕_2025-01-13 15.12.47_Tsai.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "蔡伟民",
+                        "avatar": "蔡伟民_24硕_2025-01-20 16.33.49_🤥.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "蔡宇",
+                        "avatar": "蔡宇picture-0_2025-01-20 18.36.57_翱翔于空.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "魏励晨",
+                        "avatar": "魏励晨picture-0_2025-01-20 14.00.26_🤔.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "张海涛",
+                        "avatar": "张海涛picture-0_2025-01-20 10.42.59_默歌尽微凉.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "林晓伟",
+                        "avatar": "林晓伟768c8420c0b144b87da32b5dd18816db_2025-01-20 19.05.30_TTT.jpeg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "马一格",
+                        "avatar": "马一格31B81EC7-C541-42D2-BA25-0714DB9F599A_2025-01-20 19.16.59_myG.jpeg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "黄佳凌",
+                        "avatar": "黄佳凌_24硕.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "杨皓淳",
+                        "avatar": "杨皓淳.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "陈慧明",
+                        "avatar": "陈慧明_24硕_2025-01-21 21.58.44_I.jpg",
+                        "title": "",
+                        "link": ""
+                    },
                 ]
             },
 
