@@ -83,7 +83,7 @@ export default {
                 {
                     name: "涂晓彤",
                     avatar: "tuxiaotong.jpg",
-                    title: "助理教授，硕导",
+                    title: "副教授，硕导",
                     link: "teamindex/xttu.html",
                 },
                 {
@@ -294,7 +294,7 @@ export default {
                         "name": "温凯润",
                         "avatar": "YUN_温凯润_23硕.jpg",
                         "title": "",
-                        "link": ""
+                        "link": "https://kairunwen.github.io/"
                     },
                     {
                         "name": "马生斌",
@@ -328,7 +328,7 @@ export default {
                     },
                     {
                         "name": "郑辉",
-                        "avatar": "唯我·信仰の永恒_郑辉_23硕.jpg",
+                        "avatar": "郑辉_23硕.jpg",
                         "title": "",
                         "link": "https://www.huii.top/"
                     },
