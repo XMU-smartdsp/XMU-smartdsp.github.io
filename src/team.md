@@ -225,8 +225,7 @@ export default {
                     avatar: "袁与炫.jpg",
                     title: "",
                     link: "#",
-                },
-                ]
+                },],
                 2025: [{
                     name: "吴成霖",
                     avatar: "吴成霖_25博.jpg",
