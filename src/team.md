@@ -227,6 +227,25 @@ export default {
                     link: "#",
                 },
                 ]
+                2025: [{
+                    name: "吴成霖",
+                    avatar: "吴成霖_25博.jpg",
+                    title: "",
+                    link: "#"
+                },
+                {
+                    name: "施纯森",
+                    avatar: "施纯森_25博.jpg",
+                    title: "",
+                    link: "#",
+                },
+                {
+                    name: "许岚辉",
+                    avatar: "许岚辉_25博.jpeg",
+                    title: "",
+                    link: "#",
+                },
+                ]
             },
             masters: {
                 2022: [
@@ -585,6 +604,86 @@ export default {
                     {
                         "name": "陈慧明",
                         "avatar": "陈慧明_24硕_2025-01-21 21.58.44_I.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                ],
+                2025: [
+                    {
+                        "name": "陈炜烨",
+                        "avatar": "陈炜烨_25硕.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "杨铮",
+                        "avatar": "杨铮_25硕.jpeg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "潘高枫",
+                        "avatar": "潘高枫_25硕.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "朱金林",
+                        "avatar": "朱金林_25硕.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "张弘扬",
+                        "avatar": "张弘扬_25硕.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "刘东暄",
+                        "avatar": "刘东暄_25硕.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "林沛伟",
+                        "avatar": "林沛伟_25硕.jpeg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "陈润宇",
+                        "avatar": "陈润宇_25硕.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "李晓明",
+                        "avatar": "李晓明_25硕.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "杨可芃",
+                        "avatar": "杨可芃_25硕.jpg",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "高荣鑫",
+                        "avatar": "高荣鑫_25硕.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "陈斌",
+                        "avatar": "陈斌_25硕.png",
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "name": "林富恒",
+                        "avatar": "林富恒_25硕.jpg",
                         "title": "",
                         "link": ""
                     },
