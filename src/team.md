@@ -616,7 +616,7 @@ export default {
                     },
                     {
                         "name": "杨铮",
-                        "avatar": "杨铮_25硕.jpeg",
+                        "avatar": "杨铮_25硕.jpg",
                         "title": "",
                         "link": ""
                     },
