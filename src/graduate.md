@@ -797,6 +797,116 @@ export default {
               link: "",
           },
       ],
+          2022: [
+                    {
+                        name: "陈晓璐",
+                        avatar: "陈晓璐.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "程利东",
+                        avatar: "程利东.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "邓成浩",
+                        avatar: "邓成浩_22硕_2025-01-14 16.36.51_逍小自在.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "董於航",
+                        avatar: "董於航.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "范琳钰",
+                        avatar: "范琳钰.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "黄婧嘉",
+                        avatar: "黄婧嘉.png",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "李晨",
+                        avatar: "李晨.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "林鸿",
+                        avatar: "林鸿.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "马晨雨",
+                        avatar: "马晨雨.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "彭家傲",
+                        avatar: "彭家傲.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "唐路垚",
+                        avatar: "唐路垚.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "吴庆垚",
+                        avatar: "吴庆垚_new.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "夏周翔",
+                        avatar: "夏周翔.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "余河灯",
+                        avatar: "余河灯.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    // {
+                    //     name: "袁与炫",
+                    //     avatar: "袁与炫.jpg",
+                    //     title: "",
+                    //     link: ""
+                    // },
+                    {
+                        name: "章弘阳",
+                        avatar: "章弘阳.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "庄荣晋",
+                        avatar: "庄荣晋.jpg",
+                        title: "",
+                        link: ""
+                    },
+                    {
+                        name: "王珺玮",
+                        avatar: "wangjunwei.jpg",
+                        title: "",
+                        link: "",
+                    },
+                ],
       },
     };
   },
