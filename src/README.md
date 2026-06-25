@@ -13,6 +13,18 @@ projects:
     name: 数据集
     desc: The Optimus Prime dataset
     link: dataset/OptimusPrime
+  - icon: project
+    name: 无监督异常检测项目
+    desc: Unsupervised Anomaly Detection Resources
+    link: https://github.com/XHD5656123/Unsupervised-Anomaly-Detection-Resources-
+  - icon: project
+    name: 水下图像增强项目
+    desc: Underwater Image Enhancement Resources
+    link: https://github.com/T77701/Underwater-Image-Enhancement-Resources
+  - icon: project
+    name: JarvisArt项目
+    desc: JarvisArt 项目主页
+    link: https://mp.weixin.qq.com/s/oGhkzO7ZWB7vQab-mLPrAw
 footer: 地址：中国福建省厦门市翔安区厦门大学翔安校区西部片区6号楼211/201
 ---
 

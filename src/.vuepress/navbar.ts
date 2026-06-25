@@ -74,6 +74,21 @@ export default navbar([
         // icon: "home",
         link: "chest_radiograph",
       },
+      {
+        text: "无监督异常检测项目",
+        // icon: "home",
+        link: "https://github.com/XHD5656123/Unsupervised-Anomaly-Detection-Resources-",
+      },
+      {
+        text: "水下图像增强项目",
+        // icon: "home",
+        link: "https://github.com/T77701/Underwater-Image-Enhancement-Resources",
+      },
+      {
+        text: "JarvisArt项目",
+        // icon: "home",
+        link: "https://mp.weixin.qq.com/s/oGhkzO7ZWB7vQab-mLPrAw",
+      },
     ],
   },
   {
