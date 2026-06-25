@@ -14,7 +14,7 @@ projects:
     desc: The Optimus Prime dataset
     link: dataset/OptimusPrime
   - icon: project
-    name: 无监督异常检测项目
+    name: 工业异常检测项目
     desc: Unsupervised Anomaly Detection Resources
     link: https://github.com/XHD5656123/Unsupervised-Anomaly-Detection-Resources-
   - icon: project
@@ -24,7 +24,7 @@ projects:
   - icon: project
     name: JarvisArt项目
     desc: JarvisArt 项目主页
-    link: https://mp.weixin.qq.com/s/oGhkzO7ZWB7vQab-mLPrAw
+    link: https://github.com/LYL1015/JarvisArt
 footer: 地址：中国福建省厦门市翔安区厦门大学翔安校区西部片区6号楼211/201
 ---
 
