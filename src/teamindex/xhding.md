@@ -66,27 +66,32 @@ editLink: false
   - 电子学报审稿人
   - 数据采集与处理审稿人
 - **近年来承担的科研项目情况：**
-  - 国家自然科学基金，基于伪健康图像生成的知识嵌入深度学习病灶分割方法研究，202101-202512， 60万，主持，已结题。
-  - 国家自然科学基金，基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重建方法，201601-201912， 67.8万，主持，已结题。
-  - 国家自然科学基金，基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，201201-201512，60万，主持，已结题。
-  - 国家自然科学基金，基于压缩传感理论的高时空分辨率动态磁共振成像关键技术研究，201001-201212，21万，主持，已结题。
-  - 国家自然科学基金面上项目：不均匀磁场中快速获得高分辨二维核磁共振谱的新技术，201001-201212，44万，第一参与人，已结题。
-  - 福建省高等学校新世纪优秀人才，2012年，30万，主持，已结题。
-  - 中央高校基本科研业务费交叉项目，基于机器学习理论的磁共振脑成像重建方法研究，201601-201812，60万，主持，已结题。
+  - 华为技术有限公司, 企业委托项目, 校合20253160A1004, 基于用户意图和参考图的亮色参数推荐, 2025.11 至 2026.5, 99.91万元, 主持，已结题。
+  - 国网福建省电力有限公司, 企业委托项目, 校合20243160A0862, 灾害场景下无人机巡检灾损智能辨识与决策辅助技术, 2024.10 至 2026.6, 35万元, 在研, 主持。
+  - 某科技委, 1**工程项目, XXX, 基于自监督预训练的*****表征模型构建方法研究, 2023.7 至 2024.6, 190万元，主持，已结题。
+  - 某科技委, 基础加强重点项目, XXX, 基于XXX探测目标智能识别研究, 2021.1 至 2024.11, 430万元，主持，已结题。
+  - 北京深睿博联科技有限责任公司, 企业委托项目, XDHT2021029A, 医学异构数据融合的机器学习方法研究, 2021.1 至 2022.1, 150万元，主持，已结题。
+  - 国家自然科学基金，基于伪健康图像生成的知识嵌入深度学习病灶分割方法研究，2021.1-2025.12， 55万，主持，已结题。
+  - 国家自然科学基金，基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重建方法，2016.1-2019.12， 67.8万，主持，已结题。
+  - 中央高校基本科研业务费交叉项目，基于机器学习理论的磁共振脑成像重建方法研究，2016.1-2018.12，60万，主持，已结题。
   - 广东省自然科学基金项目：基于贝叶斯多任务压缩感知理论的多对比度MRI重建方法，2016.1-2018.12，10万，主持，已结题。（备注：依托厦大深圳研究院申请）
-  - 企业委托项目，街景影像中的***研究，2015.6-2016.12，30万，主持，已结题。
-  - 企业委托项目，基于机器学***技术，201509-201612，20万，主持，已结题。
+  - 企业委托项目，车联***算法开发，2015.11-2016.4，20万，主持，已结题。
+  - 企业委托项目，基于机器学***技术，2015.9-2016.12，20万，主持，已结题。
   - 企业委托项目，遥感图像***系统，2015.9 -2016.5，17万，主持，已结题。
-  - 企业委托项目，车联***算法开发，201511-201604，20万，主持，已结题。
-  - 中央高校基本科研业务费奖励自由探索项目，单幅水下退化图像视觉增强方法研究，201508-2015012，20万，主持，已结题。
+  - 中央高校基本科研业务费奖励自由探索项目，单幅水下退化图像视觉增强方法研究，2015.8-2015.12，20万，主持，已结题。
+  - 企业委托项目，街景影像中的***研究，2015.6-2016.12，30万，主持，已结题。
   - 企业委托项目，透雾***系统，2014.3-2014.12，42万，主持，已结题。
   - 企业委托项目，公共安全***系统,2013.10- 2014.10 ，15万，已结题、主持。
-  - 中央高校基本科研业务费，非参数层次贝叶斯自适应字典稀疏表示方法及其应用，201101-201312，30万，主持，已结题。
+  - 福建省高等学校新世纪优秀人才，2012年，30万，主持，已结题。
+  - 国家自然科学基金，基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012.1-2015.12，60万，主持，已结题。
+  - 中央高校基本科研业务费，非参数层次贝叶斯自适应字典稀疏表示方法及其应用，2011.1-2013.12，30万，主持，已结题。
+  - 国家自然科学基金，基于压缩传感理论的高时空分辨率动态磁共振成像关键技术研究，2010.1-2012.12，21万，主持，已结题。
+  - 国家自然科学基金面上项目：不均匀磁场中快速获得高分辨二维核磁共振谱的新技术，2010.1-2012.12，44万，第一参与人，已结题。
   - 福建省自然科学基金项目：基于非参数核估计的各向异性图像处理方法研究，2010.1-2012.12，5万，第一合作者，已结题。
-  - 企业委托项目，FFS06型辐射仪***系统，200909-201003，4万，主持，已结题。
-  - 福建省自然科学基金，自适应冗余字典稀疏表示理论及其在图像低比特率压缩中应用，200805-201012， 7万，主持，已结题。
-  - 厦门市科技计划项目，汽车视频黑匣子系统，200804-201012，30万，主持，已结题。
-  - 企业委托项目，汽车行驶***系统，200801-200912， 15万，主持，已结题。
+  - 企业委托项目，FFS06型辐射仪***系统，2009.9-2010.3，4万，主持，已结题。
+  - 福建省自然科学基金，自适应冗余字典稀疏表示理论及其在图像低比特率压缩中应用，2008.5-2010.12， 7万，主持，已结题。
+  - 厦门市科技计划项目，汽车视频黑匣子系统，2008.4-2010.12，30万，主持，已结题。
+  - 企业委托项目，汽车行驶***系统，2008.1-2009.12， 15万，主持，已结题。
   - 福建省自然科学基金，Contourlet变换域视觉特性建模及其应用研究，2006.8 - 2007.12，2万，主持，已结题。
 - **近年来发表的相关会议论文情况（\*为通信作者）:**
   - Yunlong Lin, Zixu Lin, Kunjie Lin, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding*(丁兴号), Wenbo Li, Shuicheng Yan. Jarvisart: Liberating human artistic creativity via an intelligent photo retouching agent. Advances in Neural Information Processing Systems, vol. 38, pp. 52088-52130, 2026. (NeurIPS,机器学习领域顶级国际会议,CCF-A;[Project]: https://jarvisart.vercel.app/)
@@ -107,14 +112,26 @@ editLink: false
   - Yuxuan Yuan, Luyao Tang, Yixin Chen, Chaoqi Chen, Yue Huang*(黄悦), Xinghao Ding(丁兴号). ASGS: Single-Domain Generalizable Open-Set Object Detection via Adaptive Subgraph Searching. Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 20911-20921. 2025. (ICCV，计算机视觉领域顶级国际会议,CCF-A) 
   - Luyao Tang, Kunze Huang, Chaoqi Chen, Yuxuan Yuan, Chenxin Li, Xiaotong Tu, Xinghao Ding(丁兴号), Yue Huang*(黄悦). Dissecting generalized category discovery: Multiplex consensus under self-deconstruction. Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 297-307. 2025. (ICCV，计算机视觉领域顶级国际会议,CCF-A)  
   - Yuzhi Huang, Chenxin Li*, Haitao Zhang, Zixu Lin, Yunlong Lin, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang*(黄悦), Xinghao Ding(丁兴号), Yixuan Yuan. Track any anomalous object: A granular video anomaly detection pipeline. Proceedings of the Computer Vision and Pattern Recognition Conference, pp. 297-307. 2025. (CVPR，计算机视觉领域顶级国际会议,CCF-A)   
-
+  - Yuzhi Huang, Chenxin Li, Zixu Lin, Hengyu Liu, Haote Xu, Yifan Liu, Yue Huang(黄悦), Xinghao Ding(丁兴号), Xiaotong Tu, Yixuan Yuan. P2SAM: Probabilistically prompted SAMs are efficient segmentator for ambiguous medical images. Proceedings of the 32nd ACM International Conference on Multimedia, pp. 9779-9788, 2024. (ACM MM，多媒体领域顶级国际会议，CCF-A)
+  - Jingjia Huang, Jingyan Tu, Ge Meng, Yingying Wang, Yuhang Dong, Xiaotong Tu, Xinghao Ding(丁兴号), Yue Huang(黄悦). Efficient perceiving local details via adaptive spatial-frequency information integration for multi-focus image fusion. Proceedings of the 32nd ACM International Conference on Multimedia, pp. 9350-9359, 2024. (ACM MM，多媒体领域顶级国际会议，CCF-A)
+  - Chenghao Deng, Haote Xu, Xiaolu Chen, Haodi Xu, Xiaotong Tu, Xinghao Ding(丁兴号), Yue Huang(黄悦). Simclip: Refining image-text alignment with simple prompts for zero-/few-shot anomaly detection. Proceedings of the 32nd ACM International Conference on Multimedia, pp. 1761-1770, 2024. (ACM MM，多媒体领域顶级国际会议，CCF-A)
+  - Yingying Wang, Xuanhua He, Yuhang Dong, Yunlong Lin, Yue Huang(黄悦), Xinghao Ding*(丁兴号). Cross-modality interaction network for pan-sharpening. IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024. (遥感与地球科学领域顶级期刊，JCR1区)
+  - Linyu Fan, Yingying Wang, Guoliang Hu, Feifei Li, Yuhang Dong, Hui Zheng, Changqing Lin, Yue Huang(黄悦), Xinghao Ding(丁兴号). Diffusion-based continuous feature representation for infrared small-dim target detection. IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-17, 2024. (遥感与地球科学领域顶级期刊，JCR1区)
+  - Huangxing Lin, Yuhang Dong, Xinghao Ding(丁兴号), Tianpeng Liu, Yongxiang Liu. Unsupervised pan-sharpening via mutually guided detail restoration. Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 4, pp. 3386-3394, 2024. (AAAI，人工智能领域顶级国际会议，CCF-A)
+  - Ge Meng, Jingjia Huang, Yingying Wang, Zhenqi Fu, Xinghao Ding*(丁兴号), Yue Huang(黄悦). Progressive high-frequency reconstruction for pan-sharpening with implicit neural representation. Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 5, pp. 4189-4197, 2024. (AAAI，人工智能领域顶级国际会议，CCF-A)
+  - Yingying Wang, Yunlong Lin, Ge Meng, Zhenqi Fu, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding*(丁兴号), Yue Huang(黄悦). Learning high-frequency feature enhancement and alignment for pan-sharpening. Proceedings of the 31st ACM International Conference on Multimedia, pp. 358-367, 2023. (ACM MM，多媒体领域顶级国际会议，CCF-A)
+  - Yunlong Lin, Zhenqi Fu, Ge Meng, Yingying Wang, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding*(丁兴号). Domain-irrelevant feature learning for generalizable pan-sharpening. Proceedings of the 31st ACM International Conference on Multimedia, pp. 3287-3296, 2023. (ACM MM，多媒体领域顶级国际会议，CCF-A)
   - Huangxing Lin, Yihong Zhuang, Xinghao Ding(丁兴号), Delu Zeng(曾德炉), Yue Huang(黄悦), Xiaotong Tu(涂晓彤), John Paisley. Self-supervised image denoising using implicit deep denoiser prior. Proceedings of the AAAI Conference on Artificial Intelligence, vol. 37, no. 2, pp. 1586-1594, 2023. (AAAI，人工智能领域顶级国际会议,CCF-A)
   - Zhenqi Fu, Yan Yang, Xiaotong Tu(涂晓彤), Yue Huang(黄悦), Xinghao Ding(丁兴号) and Kai-Kuang Ma. Learning a simple low-light image enhancer from paired low-light instances. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023: 22252-22261.(CVPR，计算机视觉领域顶级国际会议,CCF-A,Google citations: 514次)
   - Zhenqi Fu, Wu Wang, Yue Huang(黄悦), Xinghao Ding(丁兴号), Kai-Kuang Ma. Uncertainty inspired underwater image enhancement. European conference on computer vision. Cham: Springer Nature Switzerland, 2022: 465-482.(ECCV，计算机视觉领域顶级国际会议,CCF-A,Google citations: 398次)
   - Zhenqi Fu, Huangxing Lin, Yan Yang, Shu Chai, Liyan Sun, Yue Huang(黄悦), Xinghao Ding*(丁兴号). Unsupervised underwater image restoration: From a homology perspective. Proceedings of the AAAI Conference on Artificial Intelligence, vol. 36, no. 1, pp. 643-651, 2022. (AAAI，人工智能领域顶级国际会议,CCF-A,Google citations: 198次)
   - Zhenqi Fu, Xiaopeng Lin, Wu Wang, Yue Huang(黄悦), Xinghao Ding*(丁兴号). Underwater image enhancement via learning water type desensitized representations. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2764-2768, 2022. (Google citations: 116次)
-  - Xueyang Fu, Qi Qi, Zheng-Jun Zha, Yurui Zhu, Xinghao Ding*(丁兴号). Rain streak removal via dual graph convolutional network. Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 2, pp. 1352-1360, 2021. (AAAI，人工智能领域顶级国际会议,CCF-A,Google citations: 196次)
+  - Xueyang Fu, Qi Qi, Zheng-Jun Zha, Yurui Zhu, Xinghao Ding*(丁兴号). Rain streak removal via dual graph convolutional network. Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 2, pp. 1352-1360, 2021. (AAAI，人工智能领域顶级国际会议,CCF-A, Google citations: 196次)
+  - Chaoqi Chen, Zebiao Zheng, Yue Huang(黄悦), Xinghao Ding(丁兴号), Yizhou Yu. I3Net: Implicit instance-invariant network for adapting one-stage object detectors. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 12576-12585, 2021. (CVPR，计算机视觉领域顶级国际会议，CCF-A, Google citations: 116次)
+  - Yiyi Zhou, Tianhe Ren, Chaoyang Zhu, Xiaoshuai Sun, Jianzhuang Liu, Xinghao Ding(丁兴号), Mingliang Xu, Rongrong Ji. TRAR: Routing the attention spans in transformer for visual question answering. Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 2054-2064, 2021. (ICCV，计算机视觉领域顶级国际会议，CCF-A, Google citations: 168次)
+  - Chaoqi Chen, Jiongcheng Li, Zebiao Zheng, Yue Huang(黄悦), Xinghao Ding(丁兴号), Yizhou Yu. Dual bipartite graph learning: A general approach for domain adaptive object detection. Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 2683-2692, 2021. (ICCV，计算机视觉领域顶级国际会议，CCF-A)
   - Chaoqi Chen, Zebiao Zheng, Xinghao Ding(丁兴号), Yue Huang(黄悦) and Qi Dou. Harmonizing transferability and discriminability for adapting object detectors. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020: 8869-8878.(CVPR，计算机视觉领域顶级国际会议,CCF-A,Google citations: 434次)
+  - Yiyi Zhou, Rongrong Ji, Xiaoshuai Sun, Gen Luo, Xiaopeng Hong, Jinsong Su, Xinghao Ding(丁兴号), Ling Shao. K-armed bandit based multi-modal network architecture search for visual question answering. Proceedings of the 28th ACM International Conference on Multimedia, pp. 1245-1254, 2020. (ACM MM，多媒体领域顶级国际会议，CCF-A)
   - Chaoqi Chen, Weiping Xie, Wenbing Huang, Yu Rong, Xinghao Ding(丁兴号), Yue Huang(黄悦), Tingyang Xu and Junzhou Huang. Progressive feature alignment for unsupervised domain adaptation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 627-636, 2019. (CVPR，计算机视觉领域顶级国际会议,CCF-A,Google citations: 628次)
   - Chengquan Zhang, Borong Liang, Zuming Huang, Mengyi En, Junyu Han, Errui Ding, Xinghao Ding*(丁兴号). Look more than once: An accurate detector for text of arbitrary shapes. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10552-10561, 2019. (CVPR，计算机视觉领域顶级国际会议,CCF-A,Google citations: 358次)
   - Xueyang Fu, Jiabin Huang, Delu Zeng, Yue Huang, Xinghao Ding(丁兴号), John Paisley. Removing rain from single images via a deep detail network. Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2017: 3855-3863.(CVPR，计算机视觉领域顶级国际会议,CCF-A,Google citations: 1628次)
@@ -141,14 +158,43 @@ editLink: false
   - Qingyao Wu, Jiaxin Xie, Zhenqi Fu, Xiaotong Tu, Yue Huang, Xinghao Ding(丁兴号). CE3USOD: Channel-Enhanced, Efficient, and Effective Network for Underwater Salient Object Detection. IEEE Journal of Oceanic Engineering, 2025. (海洋工程领域期刊，JCR1区)
   - Yingying Wang, Hui Zheng, Feifei Li, Yunlong Lin, Linyu Fan, Xuanhua He, Yue Huang(黄悦), Xinghao Ding*(丁兴号). Toward generalizable pansharpening: Conditional flow-based learning guided by implicit high-frequency priors. IEEE Transactions on Geoscience and Remote Sensing, 63, pp.1-17, 2025. (遥感与地球科学领域顶级期刊，JCR1区)
   - Yingying Wang, Yunlong Lin, Xuanhua He, Hui Zheng, Keyu Yan, Linyu Fan, Yue Huang(黄悦), Xinghao Ding*(丁兴号). Learning diffusion high-quality priors for pan-sharpening: A two-stage approach with time-aware adapter fine-tuning. IEEE Transactions on Geoscience and Remote Sensing, 63, pp.1-14, 2025. (遥感与地球科学领域顶级期刊，JCR1区)
+  - Yinhao Liu, Zhenyu Kuang, Hongyang Zhang, Yige Ma, Xinghao Ding(丁兴号), Yue Huang(黄悦), Congbo Cai, Xiaosong Li. PORSCHE: progressive optimization and robust spatial convolution for hybrid enhancement in visible-infrared vehicle re-identification. IEEE Internet of Things Journal, vol. 12, no. 17, pp. 35340-35352, 2025. (物联网领域顶级期刊，JCR1区)
+  - Yuxuan Yuan, Luyao Tang, Ying Xu, Chuyang Lin, Chaoqi Chen, Yue Huang(黄悦), Xinghao Ding(丁兴号). Filling and disentanglement: Toward low- and high-order parallel single-domain generalization for SAR ship detection. IEEE Transactions on Aerospace and Electronic Systems, vol. 61, no. 2, pp. 3668-3682, 2024. (航空航天与电子系统领域期刊，JCR1区)
   - Hailiang Huang, Jingchao Guo, Huangxing Lin, Yue Huang*(黄悦), Xinghao Ding(丁兴号). Domain adaptive oriented object detection from optical to SAR images. IEEE Transactions on Geoscience and Remote Sensing, 63, 1-14, 2024. (遥感与地球科学领域顶级期刊，JCR1区)
   - Huangxing Lin, Yunlong Lin, Jingyuan Xia, Linyu Fan, Feifei Li, Yingying Wang, Xinghao Ding(丁兴号). Fusion2void: Unsupervised multi-focus image fusion based on image inpainting. IEEE Transactions on Circuits and Systems for Video Technology, 35(4), 3328-3341, 2024. (工程技术和计算机多媒体领域顶级期刊，JCR1区)
+  - Zhijie Rao, Jingcai Guo, Luyao Tang, Yue Huang(黄悦), Xinghao Ding(丁兴号), Song Guo. Srcd: Semantic reasoning with compound domains for single-domain generalized object detection. IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 7, pp. 12497-12506, 2024. (神经网络与机器学习领域顶级期刊，JCR1区)
+  - Chenyu Ma, Xiaotong Tu, Guanxing Zhou, Yue Huang(黄悦), Xinghao Ding(丁兴号). Source-free cross-domain fault diagnosis of rotating machinery using the Siamese framework. Knowledge-Based Systems, vol. 300, 112179, 2024. (人工智能领域期刊，JCR1区)
+  - Hongyang Zhang, Zhenyu Kuang, Lidong Cheng, Yinhao Liu, Xinghao Ding*(丁兴号), Yue Huang(黄悦). AIVR-Net: Attribute-based invariant visual representation learning for vehicle re-identification. Knowledge-Based Systems, vol. 289, 111455, 2024. (人工智能领域期刊，JCR1区)
+  - Zhenyu Kuang, Lidong Cheng, Hongyang Zhang, Yue Huang(黄悦), Xinghao Ding*(丁兴号). Generalizable prompts guided by image-redundant separation for vehicle reidentification. IEEE Internet of Things Journal, vol. 12, no. 1, pp. 698-712, 2024. (物联网领域顶级期刊，JCR1区)
   - Haote Xu, Yunlong Zhang, Xiaolu Chen, Changxing Jing, Liyan Sun, Yue Huang(黄悦) and Xinghao Ding*(丁兴号). AFSC: Adaptive Fourier space compression for anomaly detection. IEEE Transactions on Industrial Informatics, vol. 20, no. 11, pp. 12586-12596, 2024. (工业信息与智能制造核心期刊，JCR1区)
+  - Chi Zhang, Qizhi Yang, Linyu Fan, Shaocong Yu, Liyan Sun, Congbo Cai, Xinghao Ding*(丁兴号). Toward better generalization using synthetic data: A domain adaptation framework for T2 mapping via multiple overlapping-echo acquisition. IEEE Transactions on Medical Imaging, vol. 44, no. 9, pp. 3504-3514, 2023. (医学影像领域顶级期刊，JCR1区)
   - Huangxing Lin, Yihong Zhuang, Yue Huang(黄悦) and Xinghao Ding*(丁兴号). Unpaired speckle extraction for SAR despeckling. IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-14, 2023. (遥感与地球科学信息处理领域核心期刊，JCR1区)
+  - Manni Liu, Jiabin Huang, Delu Zeng, Xinghao Ding(丁兴号), John Paisley. A multiscale approach to deep blind image quality assessment. IEEE Transactions on Image Processing, vol. 32, pp. 1656-1667, 2023. (图像处理领域顶级期刊，JCR1区)
+  - Wei Lin, Xinghao Ding(丁兴号), Yue Huang(黄悦), Huanqiang Zeng. Self-supervised video-based action recognition with disturbances. IEEE Transactions on Image Processing, vol. 32, pp. 2493-2507, 2023. (图像处理领域顶级期刊，JCR1区)
+  - Zhenyu Kuang, Chuchu He, Yue Huang(黄悦), Xinghao Ding*(丁兴号), Huafeng Li. Joint image and feature levels disentanglement for generalizable vehicle re-identification. IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 12, pp. 15259-15273, 2023. (智能交通领域顶级期刊，JCR1区)
+  - Changxing Jing, Yan Huang, Yihong Zhuang, Liyan Sun, Zhenlong Xiao, Yue Huang(黄悦), Xinghao Ding*(丁兴号). Exploring personalization via federated representation learning on non-IID data. Neural Networks, 2023, 163: 354-366. (神经网络领域期刊，JCR1区)
   - Liyan Sun, Chenxin Li, Xinghao Ding(丁兴号), Yue Huang(黄悦), Zhong Chen, Guisheng Wang, Yizhou Yu and John Paisley. Few-shot medical image segmentation using a global correlation network with discriminative embedding. Computers in biology and medicine, 140: 105067, 2022.(计算机与医学交叉领域期刊, Google citations: 203次)
+  - Chaoqi Chen, Jiongcheng Li, Hong-Yu Zhou, Xiaoguang Han, Yue Huang(黄悦), Xinghao Ding(丁兴号), Yizhou Yu. Relation matters: Foreground-aware graph-based relational reasoning for domain adaptive object detection. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 3, pp. 3677-3694, 2022. (模式识别与机器智能领域顶级期刊，JCR1区)
+  - Wei Lin, Xiaoyu Liu, Yihong Zhuang, Xinghao Ding*(丁兴号), Xiaotong Tu, Yue Huang(黄悦), Huanqiang Zeng. Unsupervised video-based action recognition with imagining motion and perceiving appearance. IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 5, pp. 2245-2258, 2022. (工程技术和计算机多媒体领域顶级期刊，JCR1区)
+  - Huangxing Lin, Weihong Zeng, Yihong Zhuang, Xinghao Ding*(丁兴号), Yue Huang(黄悦), John Paisley. Learning rate dropout. IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 11, pp. 9029-9039, 2022. (神经网络与机器学习领域顶级期刊，JCR1区)
+  - Chenxin Li, Xin Lin, Yijin Mao, Wei Lin, Qi Qi, Xinghao Ding(丁兴号), Yue Huang(黄悦), Dong Liang, Yizhou Yu. Domain generalization on medical imaging classification using episodic training with task augmentation. Computers in Biology and Medicine, 2022, 141: 105144. (医学信息与生物医学工程领域期刊，JCR1区, Google citations: 123次)
+  - Xiahai Zhuang, Jiahang Xu, Xinzhe Luo, Chen Chen, Cheng Ouyang, Daniel Rueckert, Victor M. Campello, Karim Lekadir, Sulaiman Vesal, Nishant Ravikumar, Yashu Liu, Gongning Luo, Jingkun Chen, Hongwei Li, Buntheng Ly, Maxime Sermesant, Holger Roth, Wentao Zhu, Jiexiang Wang, Xinghao Ding(丁兴号), Xinyue Wang, Sen Yang, Lei Li. Cardiac segmentation on late gadolinium enhancement MRI: A benchmark study from multi-sequence cardiac MR segmentation challenge. Medical Image Analysis, 2022, 81: 102528. (医学影像领域顶级期刊，JCR1区, Google citations: 128次)
+  - Xiaopeng Lin, Guanxing Zhou, Xiaotong Tu(涂晓彤), Yue Huang(黄悦), Xinghao Ding(丁兴号). Two-level consistency metric for infrared and visible image fusion. IEEE Transactions on Instrumentation and Measurement, 2022, 71: 1-13. (仪器仪表与测量领域期刊，JCR1区)
+  - Yunlong Zhang, Xin Lin, Yihong Zhuang, Liyan Sun, Yue Huang(黄悦), Xinghao Ding(丁兴号), Guisheng Wang, Lin Yang, Yizhou Yu. Harmonizing pathological and normal pixels for pseudo-healthy synthesis. IEEE Transactions on Medical Imaging, vol. 41, no. 9, pp. 2457-2468, 2022. (医学影像领域顶级期刊，JCR1区)
+  - Yiyi Zhou, Rongrong Ji, Gen Luo, Xiaoshuai Sun, Jinsong Su, Xinghao Ding(丁兴号), Chia-Wen Lin, Qi Tian. A real-time global inference network for one-stage referring expression comprehension. IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 1, pp. 134-143, 2021. (神经网络与机器学习领域顶级期刊，JCR1区)
+  - Wu Wang, Xueyang Fu, Weihong Zeng, Liyan Sun, Ronghui Zhan, Yue Huang(黄悦), Xinghao Ding*(丁兴号). Enhanced deep blind hyperspectral image fusion. IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 3, pp. 1513-1523, 2021. (神经网络与机器学习领域顶级期刊，JCR1区)
+  - Xueyang Fu, Qi Qi, Zheng-Jun Zha, Xinghao Ding(丁兴号), Feng Wu, John Paisley. Successive graph convolutional network for image de-raining. International Journal of Computer Vision, vol. 129, no. 5, pp. 1691-1711, 2021. (计算机视觉领域顶级期刊，JCR1区)
+  - Xueyang Fu, Menglu Wang, Xiangyong Cao, Xinghao Ding(丁兴号), Zheng-Jun Zha. A model-driven deep unfolding method for JPEG artifacts removal. IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 11, pp. 6802-6816, 2021. (神经网络与机器学习领域顶级期刊，JCR1区)
+  - Yunlong Zhang, Changxing Jing, Huangxing Lin, Chaoqi Chen, Yue Huang(黄悦), Xinghao Ding(丁兴号), Yang Zou. Hard class rectification for domain adaptation. Knowledge-Based Systems, 2021, 222: 107011. (人工智能领域期刊，JCR1区)
+  - Huangxing Lin, Yanlong Li, Xueyang Fu, Xinghao Ding*(丁兴号), Yue Huang(黄悦), John Paisley. Rain O'er Me: Synthesizing real rain to derain with data distillation. IEEE Transactions on Image Processing, vol. 29, pp. 7668-7680, 2020. (图像处理领域顶级期刊，JCR1区)
   - Yue Huang(黄悦), Borong Liang, Weiping Xie, Yinghao Liao(廖英豪), Zhenyu Kuang, Yihong Zhuang and Xinghao Ding*(丁兴号). Dual domain multi-task model for vehicle re-identification. IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 4, pp. 2991-2999, 2020. (智能交通领域顶级期刊，JCR1区)
   - Liyan Sun, Jiexiang Wang, Yue Huang(黄悦) and Xinghao Ding(丁兴号), Hayit Greenspan and John Paisley. An adversarial learning approach to medical image synthesis for lesion detection. IEEE journal of biomedical and health informatics, 24(8): 2303-2314, 2020.(计算机医学领域期刊，JCR1区, Google citations: 162次)
   - Xueyang Fu, Wu Wang, Yue Huang(黄悦), Xinghao Ding*(丁兴号) and John Paisley. Deep multiscale detail networks for multiband spectral image sharpening. IEEE Transactions on Neural Networks and Learning Systems, 32(5): 2090-2104, 2020.(人工智能领域顶级期刊，JCR1区, Google citations: 155次) 
+  - Liyan Sun, Yawen Wu, Binglin Shu, Xinghao Ding*(丁兴号), Congbo Cai, Yue Huang(黄悦), John Paisley. A dual-domain deep lattice network for rapid MRI reconstruction. Neurocomputing, 2020, 397: 94-107. (人工智能与神经计算领域期刊，JCR1区)
+  - Chaoqi Chen, Weiping Xie, Yi Wen, Yue Huang(黄悦), Xinghao Ding(丁兴号). Multiple-source domain adaptation with generative adversarial nets. Knowledge-Based Systems, 2020, 199: 105962. (人工智能领域期刊，JCR1区)
+  - Xinghao Ding(丁兴号), Jitian Wang, Chengwei Dong, Yue Huang(黄悦). Vehicle type recognition from surveillance data based on deep active learning. IEEE Transactions on Vehicular Technology, vol. 69, no. 3, pp. 2477-2486, 2020. (车辆技术与通信领域期刊，JCR1区)
+  - Qi Qi, Xin Lin, Chaoqi Chen, Weiping Xie, Yue Huang(黄悦), Xinghao Ding(丁兴号), Xiaoqing Liu, Yizhou Yu. Curriculum feature alignment domain adaptation for epithelium-stroma classification in histopathological images. IEEE Journal of Biomedical and Health Informatics, vol. 25, no. 4, pp. 1163-1172, 2020. (生物医学信息学领域期刊，JCR1区)
+  - Xinghao Ding(丁兴号), Fujin He, Zhirui Lin, Yu Wang, Huimin Guo, Yue Huang(黄悦). Crowd density estimation using fusion of multi-layer features. IEEE Transactions on Intelligent Transportation Systems, vol. 22, no. 8, pp. 4776-4787, 2020. (智能交通领域顶级期刊，JCR1区)
   - Xueyang Fu, Borong Liang, Yue Huang(黄悦), Xinghao Ding*(丁兴号) and John Paisley. Lightweight pyramid networks for image deraining. IEEE transactions on neural networks and learning systems, 31(6): 1794-1807, 2019.(人工智能领域顶级期刊，JCR1区, Google citations: 502次)
   - Xueyang Fu, Jiabin Huang, Xinghao Ding*(丁兴号), Yinghao Liao(廖英豪) and John Paisley. Clearing the skies: A deep network architecture for single-image rain removal. IEEE Transactions on Image Processing, 26(6): 2944-2956, 2017.(图像处理国际顶级期刊，JCR1区, Google citations: 1132次)
   - Xueyang Fu, Delu Zeng(曾德炉), Yue Huang(黄悦), Yinghao Liao(廖英豪) and Xinghao Ding*(丁兴号) and John Paisley. A fusion-based enhancing method for weakly illuminated images. Signal processing, 129: 82-96, 2016.(Google citations: 872次)
@@ -157,6 +203,10 @@ editLink: false
   - Yue Huang(黄悦), Ruiwen Wu, Ye Sun, Wei Wang and Xinghao Ding*(丁兴号). Vehicle logo recognition system based on convolutional networks with a pre-training strategy, IEEE Transactions on Intelligent Transportation Systems (ITS), vol. 16, no.4, pp. 1951 - 1960, 2015.(智能交通领域国际顶级期刊，Google citations: 174次)
   - Yue Huang(黄悦), John Paisley, Qin Lin, Xinghao Ding*(丁兴号), Xueyang Fu and Xiao-Ping Zhang. Bayesian Nonparametric Dictionary Learning for Compressed Sensing MRI, IEEE Transactions on Image Processing, vol. 23, no.12, pp.5007-5119, 2014. (图像处理国际顶级期刊，Google citations: 168次)
   - Xinghao Ding(丁兴号), Lihan He and Lawrence Carin. Bayesian Robust Principal Component Analysis, IEEE Transactions on Image Processing, 20(12): 3419-3430, 2011. (图像处理国际顶级期刊，Google citations: 336次)
+
+
+
+
 
 
 
