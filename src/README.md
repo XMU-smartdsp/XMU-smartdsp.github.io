@@ -10,9 +10,9 @@ heroFullScreen: false
 tagline: LAB OF SMART DATA AND SIGNAL PROCESSING, XIAMEN UNIVERSITY, FUJIAN CHINA
 projects:
   - icon: project
-    name: 数据集
-    desc: The Optimus Prime dataset
-    link: dataset/OptimusPrime
+    name: JarvisArt项目
+    desc: JarvisArt 项目主页
+    link: https://github.com/LYL1015/JarvisArt
   - icon: project
     name: 无监督异常检测项目
     desc: Unsupervised Anomaly Detection Resources
@@ -22,9 +22,9 @@ projects:
     desc: Underwater Image Enhancement Resources
     link: https://github.com/T77701/Underwater-Image-Enhancement-Resources
   - icon: project
-    name: JarvisArt项目
-    desc: JarvisArt 项目主页
-    link: https://mp.weixin.qq.com/s/oGhkzO7ZWB7vQab-mLPrAw
+    name: 数据集
+    desc: The Optimus Prime dataset
+    link: dataset/OptimusPrime
 footer: 地址：中国福建省厦门市翔安区厦门大学翔安校区西部片区6号楼211/201
 ---
 
