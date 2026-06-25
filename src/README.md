@@ -14,7 +14,7 @@ projects:
     desc: JarvisArt 项目主页
     link: https://github.com/LYL1015/JarvisArt
   - icon: project
-    name: 无监督异常检测项目
+    name: 工业异常检测项目
     desc: Unsupervised Anomaly Detection Resources
     link: https://github.com/XHD5656123/Unsupervised-Anomaly-Detection-Resources-
   - icon: project
