@@ -8,7 +8,7 @@ editLink: false
 <div style="float:right; width:20%">
     <img style=" margin-left:20%; margin-top:30%" src="/assets/images/memberimage/dingxinghao.jpg">
 </div>
-厦门大学信息学院、AI研究院双聘教授，博导。福建省百千万人才、省新世纪人才、入选爱思唯尔中国高被引学者和斯坦福全球前2%顶尖科学家。长期从事医学成像与分析、机器学习、计算机视觉等研究工作，主持1*6工程项目1项、基础加强重点课题1项、国家自然科学基金项目4项（其中2项为CSMRI快速磁共振成像相关、2项为医学影像和计算机视觉相关）、其他省部级及企业委托项目50余项。已在包括IEEE TMI、TPAMI、TIP、TNNLS、MRM、JBHI、Signal Processing、Pattern Recognition、MICCAI、IPMI、CVPR、ICCV、ECCV、IJCAI、AAAI、ACM MM等领域重要期刊和会议上发表学术论文百余篇。论文Google引用19000+次，h指数:61。1篇论文被信号处理领域顶刊Signal Processing评为2020年度最佳论文（一般每年全球仅1篇）、7篇论文的Google引用600+次（其中3篇1000+）。成果获得福建省科技进步、福建省自然科学奖、吴文俊人工智能自然科学奖等奖项各1项。
+厦门大学信息学院、AI研究院双聘教授，博导。福建省百千万人才、省新世纪人才、连续多年入选爱思唯尔中国高被引学者和斯坦福全球前2%顶尖科学家榜单。长期从事人工智能、机器学习、计算机视觉、信号与信息处理等研究工作，主持。已在包括TPAMI、IJCV、TIP、TMM、ICML、NIPS、CVPR、ICCV、ECCV、IJCAI、AAAI、ACM MM、TMI、MRM、JBHI、MICCAI、IPMI等领域重要期刊和会议上发表学术论文百余篇。论文Google引用20000+次，h指数:62。1篇论文获欧洲信号处理学会《Signal Processing》期刊2020年度唯一最佳论文奖、10篇论文的Google引用500+次（其中4篇1000+）。成果获得福建省科技进步、福建省自然科学奖、吴文俊人工智能自然科学奖等奖项各1项。https://scholar.google.com/citations?user=FN2F7ZYAAAAJ&hl=en&oi=ao
 
 - **学习和研究工作简历:**
   - 2019.06–至    今，厦门大学信息学院，教授
@@ -27,7 +27,7 @@ editLink: false
 - **个人主页:** https://xmu-smartdsp.github.io/teamindex/xhding.html
 - **主讲课程:** 
     - 本科生：随机信号分析（学位课）、统计信号处理（选修课）、图像处理;  
-    - 研究生：信号检测与估计、小波分析及应用、矩阵分析、图像处理、机器学习
+    - 研究生：机器学习、矩阵分析、最优化理论与应用、小波分析及应用、信号检测与估计
 - **指导研究生:**
   - 2025:博士生：许岚辉，施纯森，吴成霖
   - 2024:博士生：袁与炫，郭慧敏
@@ -73,10 +73,7 @@ editLink: false
   - 北京深睿博联科技有限责任公司, 企业委托项目, XDHT2021029A, 医学异构数据融合的机器学习方法研究, 2021.1 至 2022.1, 150万元，主持，已结题。
   - 国家自然科学基金，基于伪健康图像生成的知识嵌入深度学习病灶分割方法研究，2021.1-2025.12， 55万，主持，已结题。
   - 国家自然科学基金，基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重建方法，2016.1-2019.12， 67.8万，主持，已结题。
-  - 国家自然科学基金，基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012.1-2015.12，60万，主持，已结题。
-  - 中央高校基本科研业务费，非参数层次贝叶斯自适应字典稀疏表示方法及其应用，2011.1-2013.12，30万，主持，已结题。
   - 国家自然科学基金，基于压缩传感理论的高时空分辨率动态磁共振成像关键技术研究，2010.1-2012.12，21万，主持，已结题。
-  - 国家自然科学基金面上项目：不均匀磁场中快速获得高分辨二维核磁共振谱的新技术，2010.1-2012.12，44万，第一参与人，已结题。
 - **近年来发表的相关会议论文情况（\*为通信作者）:**
   - Yunlong Lin, Zixu Lin, Kunjie Lin, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding*(丁兴号), Wenbo Li, Shuicheng Yan. Jarvisart: Liberating human artistic creativity via an intelligent photo retouching agent. Advances in Neural Information Processing Systems, vol. 38, pp. 52088-52130, 2026. (NeurIPS,机器学习领域顶级国际会议,CCF-A;[Project]: https://jarvisart.vercel.app/)
   - Zhongnan Cai, Yingying Wang, Hui Zheng, Panwang Pan, ZiXu Lin, Ge Meng, Chenxin Li, Chunming He, Jiaxin Xie, Yunlong Lin, Junbin Lu, Yue Huang and Xinghao Ding. Pan-lut: Efficient pan-sharpening via learnable look-up tables. Advances in Neural Information Processing Systems, 2026, 38: 126459-126483.(NeurIPS Oral,机器学习领域顶级国际会议,CCF-A)
