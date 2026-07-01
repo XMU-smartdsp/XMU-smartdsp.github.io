@@ -9,6 +9,7 @@ editLink: false
     <img style=" margin-left:20%; margin-top:30%" src="/assets/images/memberimage/dingxinghao.jpg">
 </div>
 厦门大学信息学院、AI研究院双聘教授，博导。福建省百千万人才、省新世纪人才、连续多年入选爱思唯尔中国高被引学者和斯坦福全球前2%顶尖科学家榜单。长期从事人工智能、机器学习、计算机视觉、信号与信息处理等研究工作，主持。已在包括TPAMI、IJCV、TIP、TMM、ICML、NIPS、CVPR、ICCV、ECCV、IJCAI、AAAI、ACM MM、TMI、MRM、JBHI、MICCAI、IPMI等领域重要期刊和会议上发表学术论文百余篇。论文Google引用20000+次，h指数:62。1篇论文获欧洲信号处理学会《Signal Processing》期刊2020年度唯一最佳论文奖、10篇论文的Google引用500+次（其中4篇1000+）。成果获得福建省科技进步、福建省自然科学奖、吴文俊人工智能自然科学奖等奖项各1项。
+
 https://scholar.google.com/citations?user=FN2F7ZYAAAAJ&hl=en&oi=ao
 
 - **学习和研究工作简历:**
