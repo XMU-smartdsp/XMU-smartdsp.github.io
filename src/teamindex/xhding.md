@@ -8,9 +8,7 @@ editLink: false
 <div style="float:right; width:20%">
     <img style=" margin-left:20%; margin-top:30%" src="/assets/images/memberimage/dingxinghao.jpg">
 </div>
-厦门大学信息学院、AI研究院双聘教授，博导。福建省百千万人才、省新世纪人才、连续多年入选爱思唯尔中国高被引学者和斯坦福全球前2%顶尖科学家榜单。长期从事人工智能、机器学习、计算机视觉、信号与信息处理等研究工作，主持。已在包括TPAMI、IJCV、TIP、TMM、ICML、NIPS、CVPR、ICCV、ECCV、IJCAI、AAAI、ACM MM、TMI、MRM、JBHI、MICCAI、IPMI等领域重要期刊和会议上发表学术论文百余篇。论文Google引用20000+次，h指数:62。1篇论文获欧洲信号处理学会《Signal Processing》期刊2020年度唯一最佳论文奖、10篇论文的Google引用500+次（其中4篇1000+）。成果获得福建省科技进步、福建省自然科学奖、吴文俊人工智能自然科学奖等奖项各1项。
-
-https://scholar.google.com/citations?user=FN2F7ZYAAAAJ&hl=en&oi=ao
+厦门大学信息学院、AI研究院双聘教授，博导。福建省百千万人才、省新世纪人才、连续多年入选爱思唯尔中国高被引学者和斯坦福全球前2%顶尖科学家榜单。长期从事人工智能、机器学习、计算机视觉、信号与信息处理等研究工作，主持。已在包括TPAMI、IJCV、TIP、TMM、ICML、NIPS、CVPR、ICCV、ECCV、IJCAI、AAAI、ACM MM、TMI、MRM、JBHI、MICCAI、IPMI等领域重要期刊和会议上发表学术论文百余篇。论文Google引用20000+次，h指数:62。1篇论文获欧洲信号处理学会《Signal Processing》期刊2020年度唯一最佳论文奖、10篇论文的Google引用500+次（其中4篇1000+）。成果获得福建省科技进步、福建省自然科学奖、吴文俊人工智能自然科学奖等奖项各1项。（论文Google引用20000+次，h指数:62，https://scholar.google.com/citations?hl=zh-CN&user=FN2F7ZYAAAAJ&view_op=list_works&sortby=pubdate）。
 
 - **学习和研究工作简历:**
   - 2019.06–至    今，厦门大学信息学院，教授
@@ -21,7 +19,6 @@ https://scholar.google.com/citations?user=FN2F7ZYAAAAJ&hl=en&oi=ao
   - 2003.11–2006.07，厦门大学信息科学与技术学院，讲师
   - 1998.09–2003.10，合肥工业大学，仪器科学与光电工程学院，博士
   - 1994.09–1998.09，合肥工业大学， 精密仪器系，学士
-- **研究方向:** 图像处理、机器学习、大数据分析与处理等
 
 - **所属部门:** 通信工程系
 <!-- - **联系电话:** +86-13959276468 -->
@@ -30,43 +27,11 @@ https://scholar.google.com/citations?user=FN2F7ZYAAAAJ&hl=en&oi=ao
 - **主讲课程:** 
     - 本科生：随机信号分析（学位课）、统计信号处理（选修课）、图像处理;  
     - 研究生：机器学习、矩阵分析、最优化理论与应用、小波分析及应用、信号检测与估计
-- **指导研究生:**
-  - 2025:博士生：许岚辉，施纯森，吴成霖
-  - 2024:博士生：袁与炫，郭慧敏
-  - 2023:博士生：陈睿哲，陈学林，方亦凡，郭奕松
-  - 2022:博士生：王莹莹，黄海靓
-  - 2021:博士生：孟戈，黄飞成
-  - 2020:博士生：徐浩特，匡振宇
-  - 2019:博士生：富振奇，马超
-  - 2018:博士生：林煌星，井长兴
-  - 2017:博士生：王武
-  - 2016:博士生：孙立言
-  - 2015:博士生：王宇
-  - 2014:博士生：傅雪阳
 - **学术兼职：**
   - IEEE会员， 2009-
   - 厦门市通信学会会员，2005-
   - 国家自然科学基金评审人
-  - IEEE Transactions on Medical Imaging 审稿人
-  - IEEE Transactions on Image Processing 审稿人
-  - IEEE Transactions on Multimedia 审稿人
-  - IEEE Transactions on Geoscience and Remote Sensing 审稿人
-  - IEEE Transactions on Circuits and Systems for Video Technology 审稿人
-  - IEEE Transactions on Neural Networks and Learning Systems 审稿人
-  - IEEE Journal of Oceanic Engineering 审稿人
-  - IEEE Transactions on Industrial Informatics 审稿人
-  - International Journal of Computer Vision 审稿人
-  - Pattern recognition 审稿人
-  - Information Fusion 审稿人
-  - Conference on Computer Vision and Pattern Recognition 审稿人
-  - International Conference on Machine Learning 审稿人
-  - Proceedings of the AAAI Conference on Artificial Intelligence 审稿人
-  - Proceedings of the ACM International Conference on Multimedia 审稿人
-  - Advances in Neural Information Processing Systems 审稿人  
-  - European Conference on Computer Vision 审稿人
-  - 华南理工大学学报审稿人
-  - 电子学报审稿人
-  - 数据采集与处理审稿人
+  - TPAMI、IJCV、TIP、TMM、TMI、MRM、JBHI、ICML/NIPS/CVPR/ICCV/ECCV/IJCAI/AAAI/ACM MM/MICCAI/IPMI 等顶刊顶会审稿人
 - **近年来承担的科研项目情况：**
   - 华为技术有限公司, 企业委托项目, 校合20253160A1004, 基于用户意图和参考图的亮色参数推荐, 2025.11 至 2026.5, 99.91万元, 主持，已结题。
   - 国网福建省电力有限公司, 企业委托项目, 校合20243160A0862, 灾害场景下无人机巡检灾损智能辨识与决策辅助技术, 2024.10 至 2026.6, 35万元, 在研, 主持。
@@ -75,6 +40,7 @@ https://scholar.google.com/citations?user=FN2F7ZYAAAAJ&hl=en&oi=ao
   - 北京深睿博联科技有限责任公司, 企业委托项目, XDHT2021029A, 医学异构数据融合的机器学习方法研究, 2021.1 至 2022.1, 150万元，主持，已结题。
   - 国家自然科学基金，基于伪健康图像生成的知识嵌入深度学习病灶分割方法研究，2021.1-2025.12， 55万，主持，已结题。
   - 国家自然科学基金，基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重建方法，2016.1-2019.12， 67.8万，主持，已结题。
+  - 国家自然科学基金，基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012.1-2015.12，60万，主持，已结题。
   - 国家自然科学基金，基于压缩传感理论的高时空分辨率动态磁共振成像关键技术研究，2010.1-2012.12，21万，主持，已结题。
 - **近年来发表的相关会议论文情况（\*为通信作者）:**
   - Yunlong Lin, Zixu Lin, Kunjie Lin, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding*(丁兴号), Wenbo Li, Shuicheng Yan. Jarvisart: Liberating human artistic creativity via an intelligent photo retouching agent. Advances in Neural Information Processing Systems, vol. 38, pp. 52088-52130, 2026. (NeurIPS,机器学习领域顶级国际会议,CCF-A;[Project]: https://jarvisart.vercel.app/)
